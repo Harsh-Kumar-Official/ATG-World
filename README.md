@@ -34,7 +34,7 @@ Post Option
 
 # Mobile View
 
-![ss10](htthttps://github.com/Harsh-Kumar-Official/ATG-World/blob/main/ATG%20World/010.png)
+![ss10](https://github.com/Harsh-Kumar-Official/ATG-World/blob/main/ATG%20World/010.png)
 
 ![ss11](https://github.com/Harsh-Kumar-Official/ATG-World/blob/main/ATG%20World/011.png)
 
