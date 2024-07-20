@@ -1,5 +1,6 @@
 # ATG World
-A Social Website were you can creat account post message join and leave groups and follow and un follow users.
+
+This is a social website where you can create an account or log in. It includes a feature to write posts with a category selection option. Users can join or leave groups and follow or unfollow other users. This shortlisting task was given by Banao Technologies for internship hiring. I have created this website using HTML, CSS, and JavaScript. Although React is a better option, I set a goal to build this website without using React and successfully achieved it. The website is fully functional and works perfectly.
  
 
 # Desktop View
